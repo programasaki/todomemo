@@ -1,4 +1,4 @@
-//inoutの中身処理
+//inputの中身処理
 $('.js-add-todo').on('click', function(e) {
   console.log('TODO追加ボタンを押しました');
 
